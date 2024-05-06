@@ -405,3 +405,6 @@ ASALocalRun/
 .localhistory/
 
 
+/.settings/org.eclipse.core.resources.prefs
+/CommBank-Server.zip
+/.project
